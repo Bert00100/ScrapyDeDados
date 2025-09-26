@@ -1,0 +1,30 @@
+{
+  "codigo_produto": "67",
+  "url": "https://www.tdpwines.com.br/vinho-tinto-argentino-tigerstone-garnacha",
+  "titulo": "Estancia Los Cardones Tigerstone Garnacha 2018",
+  "descricao_geral": "Com 93 pontos de Parker e Atkin, este Garnacha, o primeiro varietal da uva elaborado em Salta, surpreende por seu aroma frutado, onde se destacam morangos frescos e groselha, com notas de especiarias. Extremamente agradável.",
+  "caracteristicas": {
+    "produtor": "Estancia Los Cardones",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Tolombóm, Salta",
+    "tipo": "Tinto",
+    "uva": "Garnacha",
+    "volume_ml": 750,
+    "safra": "2018",
+    "teor_alcoolico_percent": 14.1,
+    "temperatura_servico_c": "14 a 16°C",
+    "vinificacao": "Diversas microvinificações com leveduras indígenas e temperatura controlada entre 17º e 19ªC, por 5 a 8 dias. Sem fermentação malolática.",
+    "maturacao": "9 meses em barricas de segundo e terceiro usos.",
+    "corpo": "Médio",
+    "potencial_guarda_anos": "6 anos",
+    "harmonizacoes": [
+      "Risoto de cogumelos",
+      "camarões grelhados com páprica",
+      "rattatouille"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/vin_arg_estancia_los_cardones_tigerstone_cafayate_grenache_tto_6x750ml_67_1_20221003162141.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1J0YUYRsjBE9v65VDHl-KVgLv804K63Cz&export=download"
+  }
+}

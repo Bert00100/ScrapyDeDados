@@ -1,0 +1,30 @@
+{
+  "codigo_produto": "401",
+  "url": "https://www.tdpwines.com.br/vinho-rose-chileno-veramonte-gran-reserva-pinot-noir",
+  "titulo": "Veramonte Gran Reserva Rosé 2022",
+  "descricao_geral": "Rosé elaborado unicamente com Pinot Noir. Notas de cereja, morango, frutas cítricas e florais Ótima acidez. Certificadamente orgânico. CaracteristicasProdutor VeramontePais ChileRegião CasablancaTipo RoséUva 100% Pinot NoirVolume 750mlSafra 2022Teor Alcoólico 13%Temperatura de Serviço 8 a 12°CVinificação Fermentação com leveduras indígenas em tanques de aço inox. Parte do vinho passa por madeira neutra para ganhar volume.Maturação Tanques de aço inoxCorpo LevePotencial de Guarda 5 anosHarmonizações Aperitivos, carnes brancas, queijos moles. Baixar Ficha Técnica Baixar Imagem",
+  "caracteristicas": {
+    "produtor": "Veramonte",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Casablanca",
+    "tipo": "Rosé",
+    "uva": "100% Pinot Noir",
+    "volume_ml": 750,
+    "safra": "2022",
+    "teor_alcoolico_percent": 13.0,
+    "temperatura_servico_c": "8 a 12°C",
+    "vinificacao": "Fermentação com leveduras indígenas em tanques de aço inox. Parte do vinho passa por madeira neutra para ganhar volume.",
+    "maturacao": "Tanques de aço inox",
+    "corpo": "Leve",
+    "potencial_guarda_anos": "5 anos",
+    "harmonizacoes": [
+      "Aperitivos",
+      "carnes brancas",
+      "queijos moles"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/vinho_rose_veramonte_gran_reserva_401_1_00334a211f75173da02d6e3700b39acb.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/uc?id=1KKkQV8BnsP79_Z6z_KBCkveDiNna3RW3&export=download"
+  }
+}

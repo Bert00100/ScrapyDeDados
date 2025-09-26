@@ -1,0 +1,29 @@
+{
+  "codigo_produto": "95",
+  "url": "https://www.tdpwines.com.br/vinho-tinto-argentino-finca-la-anita-malbec",
+  "titulo": "Finca La Anita Malbec 2022",
+  "descricao_geral": "Este Malbec de 93 pontos James Suckling segue o estilo tradicional de Mendoza. Intenso, terroso e frutado, sem perder o frescor.",
+  "caracteristicas": {
+    "produtor": "Finca La Anita",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Agrelo, Mendoza",
+    "tipo": "Tinto",
+    "uva": "100% Malbec",
+    "volume_ml": 750,
+    "safra": "2022",
+    "teor_alcoolico_percent": 14.5,
+    "temperatura_servico_c": "16°C",
+    "vinificacao": "Fermentação em tanques de inox com leveduras selecionadas. Fermentação malolática espontânea com controle de temperatura.",
+    "maturacao": "12 meses em barricas francesas e americanas",
+    "corpo": "Encorpado",
+    "potencial_guarda_anos": "7 anos",
+    "harmonizacoes": [
+      "Picanha grelhada com pimenta preta",
+      "carnes vermelhas com chimichurri ou molhos condimentados"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/vin_arg_finca_la_anita_agrelo_malbec_tto_6x750ml_95_1_20221003162141.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1EYdVZ3Cj0gsOMYILO0CtYrx7vh6HX8jm&export=download"
+  }
+}

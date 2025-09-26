@@ -1,0 +1,30 @@
+{
+  "codigo_produto": "23",
+  "url": "https://www.tdpwines.com.br/vinho-branco-portugues-tapada-do-coronel-talha-alentejo",
+  "titulo": "Vinho Branco Tapada do Coronel Vinho de Talha 750ml 2017",
+  "descricao_geral": "Vinho diferente é o mínimo que podemos falar sobre o Tapada do Coronel Vinho de Talha. Este branco das alturas do Alentejo, na Serra de São Mamede, é vinificado em talhas, grandes ânforas de barro, com um corte de vinhas antigas misteriosas!",
+  "caracteristicas": {
+    "produtor": "Lusovini",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Alentejo",
+    "tipo": "Branco",
+    "uva": "Antão Vaz, Roupeiro e Arinto e outras vinhas velhas",
+    "volume_ml": 750,
+    "safra": "2017",
+    "teor_alcoolico_percent": 14.0,
+    "temperatura_servico_c": "10 a 12°C",
+    "vinificacao": "Fermentação típica em talha (ânforas de barro), sem qualquer intervenção enológica",
+    "maturacao": "Em talhas (ânforas) de barro",
+    "corpo": "Intenso",
+    "potencial_guarda_anos": "5 anos",
+    "harmonizacoes": [
+      "Embutidos",
+      "como presunto cru",
+      "empadão de galinha"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/vin_por_tapada_do_coronel_talha_alentejo_branco_3x750ml_23_1_d465888755f37fe8e5f6bf98abe73397_20221003162149.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1MXE8mWb_oRzU579XuvF5J4Nyv20kRogB&export=download"
+  }
+}

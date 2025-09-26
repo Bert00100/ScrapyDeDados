@@ -1,0 +1,30 @@
+{
+  "codigo_produto": "393",
+  "url": "https://www.tdpwines.com.br/vinho-branco-chileno-veramonte-gran-reserva-sauvignon-blanc",
+  "titulo": "Veramonte Gran Reserva Sauvignon Blanc 2022",
+  "descricao_geral": "Vibrante e fresco Sauvignon Blanc, onde as notas cítricas se misturam a outras minerais, de erva doce e fruta de caroço. Certificadamente orgânico. CaracteristicasProdutor VeramontePais ChileRegião CasablancaTipo BrancoUva 100% Sauvignon BlancVolume 750mlSafra 2022Teor Alcoólico 13,5%Temperatura de Serviço 8 a 12°CVinificação Fermentação com controle de temperatura e leveduras indígenas. Parte do vinho passa por barricas neutras para ganhar volume.Maturação Tanques de aço inoxCorpo LevePotencial de Guarda 5 anosHarmonizações Peixes brancos, carnes brancas grelhadas, saladas. Baixar Ficha Técnica Baixar Imagem",
+  "caracteristicas": {
+    "produtor": "Veramonte",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Casablanca",
+    "tipo": "Branco",
+    "uva": "100% Sauvignon Blanc",
+    "volume_ml": 750,
+    "safra": "2022",
+    "teor_alcoolico_percent": 13.5,
+    "temperatura_servico_c": "8 a 12°C",
+    "vinificacao": "Fermentação com controle de temperatura e leveduras indígenas. Parte do vinho passa por barricas neutras para ganhar volume.",
+    "maturacao": "Tanques de aço inox",
+    "corpo": "Leve",
+    "potencial_guarda_anos": "5 anos",
+    "harmonizacoes": [
+      "Peixes brancos",
+      "carnes brancas grelhadas",
+      "saladas"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/veramonte_gran_reserva_sauvignon_2022_393_1_ce6e4cc538fa6a96bc48288fd0c68d85.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/uc?id=1KKJ3SyZiWNYVlx9Z6GPktXDGXzw4ohX-&export=download"
+  }
+}

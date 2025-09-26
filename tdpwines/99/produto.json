@@ -1,0 +1,30 @@
+{
+  "codigo_produto": "99",
+  "url": "https://www.tdpwines.com.br/vinho-tinto-argentino-luna-malbec",
+  "titulo": "Luna Malbec 2022",
+  "descricao_geral": "Malbec de Agrelo, no coração de Mendoza, este tinto é perfeito para o seu churrasco!",
+  "caracteristicas": {
+    "produtor": "Finca La Anita",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Agrelo, Mendoza",
+    "tipo": "Tinto",
+    "uva": "100% Malbec",
+    "volume_ml": 750,
+    "safra": "2022",
+    "teor_alcoolico_percent": 13.5,
+    "temperatura_servico_c": "16°C",
+    "vinificacao": "Fermentação em tanques de inox, com leveduras selecionadas, por 10 dias. Fermentação malolática espontânea com controle de temperatura.",
+    "maturacao": "9 meses em barricas francesas Allier de segundo uso.",
+    "corpo": "Médio",
+    "potencial_guarda_anos": "5 anos",
+    "harmonizacoes": [
+      "Cordeiro com molho de hortelã",
+      "queijos curados como o parmesão",
+      "carnes assadas"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/vin_arg_luna_agrelo_malbec_tto_12x750ml_99_1_20221003162141.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1ESOhp7LdV6u7_bri2AGV66Jrb-fyPUf6&export=download"
+  }
+}

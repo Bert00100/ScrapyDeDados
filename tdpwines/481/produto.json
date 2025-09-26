@@ -1,0 +1,31 @@
+{
+  "codigo_produto": "481",
+  "url": "https://www.tdpwines.com.br/go-up-black-edition-tinto",
+  "titulo": "GO UP Black Edition Tinto 2022",
+  "descricao_geral": "Black Edition de GO UP une a potência da Cabernet Sauvignon com os toques quentes e frutados da Carménère em um conjunto intenso e complexo. No nariz, notas de frutas negras, cerejas e pimenta preta unem-se às notas de tabaco e cedro provenientes da passagem por barrica nova. Em boca, é estruturado, com taninos finos e envolventes. CaracteristicasProdutor TDP WinesPais ChileRegião Valle de CuricóTipo TintoUva Cabernet Sauvignon e CarménèreVolume 750mlSafra 2022Teor Alcoólico 14,5%Temperatura de Serviço 16 a 18°CVinificação Vinificação tradicional em tanques com controle de temperatura (28º a 30ºC).Maturação 8 meses em barricas de carvalho.Corpo MédioPotencial de Guarda 3 a 5 anosHarmonizações Ideal com carnes grelhadas, cordeiro, massas com molho de cogumelos e queijo. Baixar Ficha Técnica Baixar Imagem",
+  "caracteristicas": {
+    "produtor": "TDP Wines",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Valle de Curicó",
+    "tipo": "Tinto",
+    "uva": "Cabernet Sauvignon e Carménère",
+    "volume_ml": 750,
+    "safra": "2022",
+    "teor_alcoolico_percent": 14.5,
+    "temperatura_servico_c": "16 a 18°C",
+    "vinificacao": "Vinificação tradicional em tanques com controle de temperatura (28º a 30ºC).",
+    "maturacao": "8 meses em barricas de carvalho.",
+    "corpo": "Médio",
+    "potencial_guarda_anos": "3 a 5 anos",
+    "harmonizacoes": [
+      "Ideal com carnes grelhadas",
+      "cordeiro",
+      "massas com molho de cogumelos",
+      "queijo"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/vin_chi_santa_irene_go_up_black_edition_premium_wine_tinto_6x750ml_481_1_2f1426fb62ec8f008920f52ed206425f.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/0/uc?id=1xcZDcbvuF4ARVC3Isr24jd1zp-jKJmTu&export=download"
+  }
+}

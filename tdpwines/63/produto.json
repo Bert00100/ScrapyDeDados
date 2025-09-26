@@ -1,0 +1,29 @@
+{
+  "codigo_produto": "63",
+  "url": "https://www.tdpwines.com.br/vinho-branco-chileno-go-up-sauvignon-blanc",
+  "titulo": "GO UP Sauvignon Blanc 2022",
+  "descricao_geral": "Refrescante, GO UP Sauvignon Blanc Reserva é a companhia perfeita para uma tarde quente de verão!",
+  "caracteristicas": {
+    "produtor": "TDP Wines",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Valle de Curicó",
+    "tipo": "Branco",
+    "uva": "100% Sauvignon Blanc",
+    "volume_ml": 750,
+    "safra": "2022",
+    "teor_alcoolico_percent": 13.0,
+    "temperatura_servico_c": "8 a 10°C",
+    "vinificacao": "Vinificação tradicional em tanques com controle de temperatura.",
+    "maturacao": "Tanques de aço inox",
+    "corpo": "Médio",
+    "potencial_guarda_anos": "3 anos",
+    "harmonizacoes": [
+      "Peixes brancos grelhados",
+      "frango com molho branco"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/vin_chi_santa_irene_go_up_curico_sauvignon_blanc_bco_6x750ml_63_1_c5e76890be55d05a3939cb350d6a731b_20221003162151.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1JrGnjyVZhOutxEbQp8KI9N1DH0m1wAoo&export=download"
+  }
+}

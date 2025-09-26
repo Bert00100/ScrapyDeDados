@@ -1,0 +1,30 @@
+{
+  "codigo_produto": "27",
+  "url": "https://www.tdpwines.com.br/vinho-tinto-portugues-sericaia",
+  "titulo": "Vinho Tinto Sericaia 750ml 2020",
+  "descricao_geral": "Tinto cheio de fruta madura, com notas de torrefação, Corte de Aragonez, Alicante Bouschet e Trincadeira, Sericaia tem estilo gastronômico, podendo acompanhar uma grande diversidade de pratos, principalmente à base de carne vermelha.",
+  "caracteristicas": {
+    "produtor": "Lusovini",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Alentejo",
+    "tipo": "Tinto",
+    "uva": "Aragonez, Alicante Bouschet e Trincadeira",
+    "volume_ml": 750,
+    "safra": "2020",
+    "teor_alcoolico_percent": 13.5,
+    "temperatura_servico_c": "16 a 18°C",
+    "vinificacao": "Maceração pré-fermentativa a frio. Fermentação em tanques de aço inox com remontagem, temperatura controlada e maceração prolongada",
+    "maturacao": "9 meses em barricas de carvalho francês",
+    "corpo": "Médio",
+    "potencial_guarda_anos": "5 anos",
+    "harmonizacoes": [
+      "Cordeiro assado",
+      "carnes vermelhas com chimichurri",
+      "queijo Grana Padano"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/vin_por_sericaia_alentejo_tinto_6x750ml_27_1_ffad5b71d3263b4bf09a412af0f7bf55_20221003162202.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1MrbEN20f0d8oM7LQxmX-XAwuHKQo35no&export=download"
+  }
+}

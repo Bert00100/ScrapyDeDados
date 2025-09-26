@@ -1,0 +1,30 @@
+{
+  "codigo_produto": "351",
+  "url": "https://www.tdpwines.com.br/vinho-tinto-portugues-terras-de-fialho-alentejo",
+  "titulo": "Vinho Tinto Terras de Fialho Alentejo DOC 2021",
+  "descricao_geral": "Um típico tinto alentejano, de intensa coloração rubi, notas frutadas e especiarias e bom volume de boca.",
+  "caracteristicas": {
+    "produtor": "Lusovini",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Alentejo",
+    "tipo": "Tinto",
+    "uva": "Alicante Bouschet, Touriga Nacional, Aragonês, Trincadeira e Castelão",
+    "volume_ml": 750,
+    "safra": "2021",
+    "teor_alcoolico_percent": 13.0,
+    "temperatura_servico_c": "16°C",
+    "vinificacao": "Fermentação com temperatura controlada entre 24 e 26ºC.",
+    "maturacao": "Tanques de aço inox",
+    "corpo": "Médio",
+    "potencial_guarda_anos": "Pronto para consumo",
+    "harmonizacoes": [
+      "Carnes",
+      "embutidos assados",
+      "queijos de massa dura"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/vinho_tinto_terras_de_fialho_alentejo_doc_2021_351_1_384683629f33adab7158e563ac21c6de.png",
+    "ficha_tecnica_url": "https://drive.google.com/u/2/uc?id=1ySa9LeOw56ZvSNTrX5U-NbNGHiEcMw97&export=download"
+  }
+}

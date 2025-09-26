@@ -1,0 +1,31 @@
+{
+  "codigo_produto": "399",
+  "url": "https://www.tdpwines.com.br/vinho-tinto-chileno-veramonte-gran-reserva-carmenere",
+  "titulo": "Veramonte Gran Reserva Carmenere Tinto 2021",
+  "descricao_geral": "Um Carménère da zona de Colchagua, onde a fruta amadurece com perfeição. Ameixas, amoras e outras frutas negras com notas de ervas e especiarias. Certificadamente orgânico. CaracteristicasProdutor VeramontePais ChileRegião ColchaguaTipo TintoUva 100% CarménèreVolume 750mlSafra 2021Teor Alcoólico 14%Temperatura de Serviço 14 a 16°CVinificação Maceração a frio por 5 dias, fermentação com leveduras nativas. Maceração pósfermentativa por 10 dias.Maturação 12 meses em barricas de carvalho francês.Corpo MédioPotencial de Guarda 5 anosHarmonizações Carne vermelha grelhada, carne de porco, empanada de carne, queijo de massa média. Baixar Ficha Técnica Baixar Imagem",
+  "caracteristicas": {
+    "produtor": "Veramonte",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Colchagua",
+    "tipo": "Tinto",
+    "uva": "100% Carménère",
+    "volume_ml": 750,
+    "safra": "2021",
+    "teor_alcoolico_percent": 14.0,
+    "temperatura_servico_c": "14 a 16°C",
+    "vinificacao": "Maceração a frio por 5 dias, fermentação com leveduras nativas. Maceração pósfermentativa por 10 dias.",
+    "maturacao": "12 meses em barricas de carvalho francês.",
+    "corpo": "Médio",
+    "potencial_guarda_anos": "5 anos",
+    "harmonizacoes": [
+      "Carne vermelha grelhada",
+      "carne de porco",
+      "empanada de carne",
+      "queijo de massa média"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/veramonte_gran_reserva_carmenere_tinto_2021_399_1_2ae98ce872cc3d2908b4ed78194419cb.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/uc?id=1KNCxWVjeR-NYiIOJRp4qYI1io7Q2pTg3&export=download"
+  }
+}

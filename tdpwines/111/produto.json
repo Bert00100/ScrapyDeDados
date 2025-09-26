@@ -1,0 +1,30 @@
+{
+  "codigo_produto": "111",
+  "url": "https://www.tdpwines.com.br/vinho-tinto-chileno-nuevo-mundo-reserva-cabernet-sauvignon-malbec",
+  "titulo": "Nuevo Mundo Reserva Cabernet Sauvignon-Malbec 2020",
+  "descricao_geral": "Este orgânico une uma das castas de maior sucesso no Chile, a Cabernet Sauvignon, com outra que se destaca geralmente na argentina, a Malbec. É elaborado a partir de leveduras indígenas e fermentação espontânea, com o mínimo de intervenções.",
+  "caracteristicas": {
+    "produtor": "De Martino",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Vale de Maipo",
+    "tipo": "Tinto",
+    "uva": "50% Cabernet Sauvignon, 50% Malbec",
+    "volume_ml": 750,
+    "safra": "2020",
+    "teor_alcoolico_percent": 13.5,
+    "temperatura_servico_c": "16°C",
+    "vinificacao": "Fermentação espontânea com o uso de leveduras indígenas, sem correções ou adições de enzimas.",
+    "maturacao": "12 meses em barricas usadas de carvalho francês",
+    "corpo": "Médio-intenso",
+    "potencial_guarda_anos": "10 anos",
+    "harmonizacoes": [
+      "Boeuf Bourguignon",
+      "cordeiro assado",
+      "queijo parmesão"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/nuevo_mundo_reserva_cabernet_sauvignon_malbec_2020_111_1_b39fe62c7cb8bb27cf23935ecc7097c3_20221003162141.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1F-QLin5rkUfl0yrEaVWvRXjVkSBl-7ts&export=download"
+  }
+}

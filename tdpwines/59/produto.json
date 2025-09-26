@@ -1,0 +1,29 @@
+{
+  "codigo_produto": "59",
+  "url": "https://www.tdpwines.com.br/vinho-branco-portugues-mito-escolha-vinho-verde",
+  "titulo": "Mito Escolha Vinho Verde 2021",
+  "descricao_geral": "Mito branco é um Vinho Verde DOC elaborado pelo mestre Anselmo Mendes. Refrescante, macio, é perfeito para acompanhar pratos leves à base de peixe.",
+  "caracteristicas": {
+    "produtor": "Lusovini",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Vinho Verde",
+    "tipo": "Branco",
+    "uva": "Alvarinho e Loureiro",
+    "volume_ml": 750,
+    "safra": "2021",
+    "teor_alcoolico_percent": 12.0,
+    "temperatura_servico_c": "8°C",
+    "vinificacao": "Sem desengace, prensa vertical e decantação por 48 horas. Fermentação em pequenas cubas de inox",
+    "maturacao": "4 meses sobre as borras finas, batonage semanal",
+    "corpo": "Médio",
+    "potencial_guarda_anos": "Pronto para consumo",
+    "harmonizacoes": [
+      "Peixes brancos grelhados",
+      "mariscos"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/mito_escolha_vinho_verde_59_1_db4c444666de33eb4cff7de239dd0df3_20221003162150.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1GGTFkeAkfjr1s2UOxB10Bc9lo00pU2dm&export=download"
+  }
+}

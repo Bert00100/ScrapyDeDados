@@ -1,0 +1,29 @@
+{
+  "codigo_produto": "179",
+  "url": "https://www.tdpwines.com.br/vinho-tinto-portugues-flor-de-nelas-reserva",
+  "titulo": "Flor de Nelas Reserva Dão Tinto 2015",
+  "descricao_geral": "Flor de Nelas Reserva é um vinho que representa toda a tradição da região de Nelas, no Dão, cidade sede da Lusovini em Portugal e de longa relação com a uva e o vinho.",
+  "caracteristicas": {
+    "produtor": "Lusovini",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Dão",
+    "tipo": "Tinto",
+    "uva": "Touriga Nacional, Tinta Roriz e Alfrocheiro",
+    "volume_ml": 750,
+    "safra": "2015",
+    "teor_alcoolico_percent": 13.0,
+    "temperatura_servico_c": "14 a 16°C",
+    "vinificacao": "Fermentação com temperatura controlada e suave maceração.",
+    "maturacao": "6 meses em barricas de carvalho francês.",
+    "corpo": "Médio",
+    "potencial_guarda_anos": "8 anos",
+    "harmonizacoes": [
+      "Carnes vermelhas",
+      "queijos de massa mole"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/flor_de_nelas_reserva_dao_tinto_179_1_c8258db157a42f601883bfa087d36347_20221003162142.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1LGtBXOA4TV5FdmN4ZMRLYXQ05H40SL7q&export=download"
+  }
+}

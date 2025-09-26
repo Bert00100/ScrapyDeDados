@@ -1,0 +1,28 @@
+{
+  "codigo_produto": "183",
+  "url": "https://www.tdpwines.com.br/vinho-tinto-porto-andresen-fine-ruby",
+  "titulo": "Andresen Fine Ruby Porto",
+  "descricao_geral": "Macio e persistente, este Porto Ruby apresenta aromaevoluído, incomum para os Rubys. Elegantemente doce,pode ser servido como entrada ou sobremesa.",
+  "caracteristicas": {
+    "produtor": "Andresen",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Douro",
+    "tipo": "Fortificado",
+    "uva": "Tinta Barroca, Tinta Roriz, Mourisco Tinto e Donzelinho Tinto",
+    "volume_ml": 750,
+    "safra": "N/V",
+    "teor_alcoolico_percent": 19.5,
+    "temperatura_servico_c": "12 a 15°C",
+    "vinificacao": "Uvas não desengaçadas. 1 dia de maceração préfermentativa e 2 dias de fermentação em tanques de cimento.",
+    "maturacao": "100% oxidativo durante 3 anos em tonéis de carvalho",
+    "corpo": "Intenso",
+    "potencial_guarda_anos": "Pronto para consumo",
+    "harmonizacoes": [
+      "Pode ser degustado sozinho ou acompanhando sobremesas doces"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/andresen_fine_ruby_porto_183_1_dd565200d0ea719a48c28f8b2f5b6d04.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1FR_QPkJOZ9o66ONzL1Sxh4XHwYM4rdok&export=download"
+  }
+}

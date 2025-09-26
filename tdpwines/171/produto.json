@@ -1,0 +1,29 @@
+{
+  "codigo_produto": "171",
+  "url": "https://www.tdpwines.com.br/vinho-tinto-chileno-go-up-cabernet-sauvignon-reserva",
+  "titulo": "GO UP Cabernet Sauvignon 2021",
+  "descricao_geral": "GO UP Cabernet Sauvignon Reserva é o mais novo lançamento da GO UP Wines. Tem ótima tipicidade, com notas de cassis e fruta vermelha madura, taninos finos e final de boca longo e marcante. É perfeito para acompanhar um bom churrasco!",
+  "caracteristicas": {
+    "produtor": "TDP Wines",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Valle de Curicó",
+    "tipo": "Tinto",
+    "uva": "100% Cabernet Sauvignon",
+    "volume_ml": 750,
+    "safra": "2021",
+    "teor_alcoolico_percent": 13.0,
+    "temperatura_servico_c": "14 a 18°C",
+    "vinificacao": "Vinificação tradicional em tanques com controle de temperatura (28º a 30ºC).",
+    "maturacao": "6 meses em barricas de carvalho de segundo uso.",
+    "corpo": "Médio",
+    "potencial_guarda_anos": "3 a 5 anos",
+    "harmonizacoes": [
+      "Carnes vermelhas assadas",
+      "massas com molhos encorpados"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/go_up_cabernet_sauvignon_reserva_2018_171_1_7ab16aaae5bca45413dc4483fb6d0200_20221003162201.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1JRJ_bLvRsQCqyreFImkvrqad-N4PfARX&export=download"
+  }
+}

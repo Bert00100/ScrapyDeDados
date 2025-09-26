@@ -1,0 +1,31 @@
+{
+  "codigo_produto": "373",
+  "url": "https://www.tdpwines.com.br/vinho-tinto-espanhol-valdemillanos-garnacha-do-campo-de-borja",
+  "titulo": "Vinho Tinto Valdemillanos Garnacha DO Campo de Borja 2022",
+  "descricao_geral": "Um Garnacha jovem da Denominação Campo de Borja, onde a variedade é amplamente plantada. Um vinho redondo, sem madeira, focado na fruta madura.",
+  "caracteristicas": {
+    "produtor": "Bodegas Aragonesas",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Campo de Borja - Aragón",
+    "tipo": "Tinto",
+    "uva": "100% Garnacha, vinhas de 30 anos.",
+    "volume_ml": 750,
+    "safra": "2022",
+    "teor_alcoolico_percent": 13.5,
+    "temperatura_servico_c": "14°C",
+    "vinificacao": "Fermentação tradicional com temperatura controlada.",
+    "maturacao": "Tanques de aço inox",
+    "corpo": "Leve",
+    "potencial_guarda_anos": "Pronto para consumo",
+    "harmonizacoes": [
+      "Pizzas",
+      "carnes leves grelhadas",
+      "massas com molho vermelho",
+      "lasanha"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/vinho_tinto_valdemillanos_garnacha_do_campo_de_borja_373_1_038118dca2c38a05ab4c2e0339e3ca83.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1iQMcToqpjV24BsWq6LgDPEWCAGiVdQh2&export=download"
+  }
+}

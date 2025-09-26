@@ -1,0 +1,32 @@
+{
+  "codigo_produto": "79",
+  "url": "https://www.tdpwines.com.br/vinho-tinto-chileno-ritual-syrah-alcaparral-block",
+  "titulo": "Ritual Syrah Alcaparral Block 2017",
+  "descricao_geral": "Este Syrah orgânico e biodinâmico de Casablanca é denso, escuro, de ótima persistência. Recebeu 95 pontos de Tim Atkin e 94 de James Suckling.",
+  "caracteristicas": {
+    "produtor": "Veramonte",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Vale de Casablanca, com forte influência do Oceano Pacífico.",
+    "tipo": "Tinto",
+    "uva": "100% Syrah",
+    "volume_ml": 750,
+    "safra": "2017",
+    "teor_alcoolico_percent": 14.0,
+    "temperatura_servico_c": "14 a 16°C",
+    "vinificacao": "Colheita manual das uvas. Fermentação com leveduras nativas, em tanques de aço inox com temperatura controlada (24ºC), por 10 a 15 dias. Parte da fruta fermenta com o cacho inteiro.",
+    "maturacao": "12 meses em barricas de carvalho francês (25% novas).",
+    "corpo": "Encorpado",
+    "potencial_guarda_anos": "8 a 10 anos",
+    "harmonizacoes": [
+      "Paleta de cordeiro",
+      "queijos duros",
+      "carré suíno",
+      "pratos ricos em especiarias",
+      "condimentos"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/vin_chi_ritual_blocks_alocaparal_casablanca_syrah_tto_6x750ml_79_1_20221003162141.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1K2e9-3FfOgyle3npukX5odQsYdv1KOHs&export=download"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "codigo_produto": "vinho-tinto-frances-chateau-vieux-roland-bordeaux",
+  "url": "https://www.tdpwines.com.br/vinho-tinto-frances-chateau-vieux-roland-bordeaux",
+  "titulo": "VIN FRA CHATEAU VIEUX ROLAND \"BORDEAUX\" TINTO 12 X 750 ML 2021Referência:104020Marca:Castel FrèresSeja o primeiro a opinar",
+  "descricao_geral": "Um corte bordalês com prevalência da Merlot, elaborado com vinhas velhas, de 50 anos de idade. Intenso em cor e essencialmente frutado no nariz, com notas de frutas negras e vermelhas. Em boca, é macio, com taninos delicados e corpo médio. Caracteristicas Produtor Chateaux Castel Pais França Região Bordeaux Tipo Tinto Uva 70% Merlot, 20% Cabernet Sauvignon, 10% Cabernet Franc Volume 750ml Safra 2021 Teor Alcoólico 12,5% Temperatura de Serviço 14 a 16°C Vinificação Fermentação tradicional com temperatura controlada por 21 dias. Maturação Tanques de aço inox Corpo Médio Potencial de Guarda 3 a 4 anos Harmonizações Carnes vermelhas grelhadas, massas com molho vermelho, queijos de massa média. Baixar Ficha Técnica Baixar Imagem",
+  "caracteristicas": {
+    "produtor": "Chateaux Castel",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Bordeaux",
+    "tipo": "Tinto",
+    "uva": "70% Merlot, 20% Cabernet Sauvignon, 10% Cabernet Franc",
+    "volume_ml": 750,
+    "safra": "2021",
+    "teor_alcoolico_percent": 12.5,
+    "temperatura_servico_c": "14 a 16°C",
+    "vinificacao": "Fermentação tradicional com temperatura controlada por 21 dias.",
+    "maturacao": "Tanques de aço inox",
+    "corpo": "Médio",
+    "potencial_guarda_anos": "3 a 4 anos",
+    "harmonizacoes": [
+      "Carnes vermelhas grelhadas",
+      "massas com molho vermelho",
+      "queijos de massa média"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/vin_fra_chateau_vieux_roland_bordeaux_tinto_12_x_750_ml_321_1_dccba51190317ca4af120146e41abe82.jpg",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1jZa5PDByUcwn7pPcjLmNlx4jEF1tQvjr&export=download"
+  }
+}

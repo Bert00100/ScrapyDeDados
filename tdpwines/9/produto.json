@@ -1,0 +1,32 @@
+{
+  "codigo_produto": "9",
+  "url": "https://www.tdpwines.com.br/vinho-rose-argentino-luna-malbec",
+  "titulo": "Luna Rosé Malbec 2022",
+  "descricao_geral": "Single vineyard, este rosé 100% Malbec de notas frescas e frutadas é um verdadeiro coringa nas harmonizações.",
+  "caracteristicas": {
+    "produtor": "Finca La Anita",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Agrelo, Mendoza",
+    "tipo": "Rosé",
+    "uva": "100% Malbec",
+    "volume_ml": 750,
+    "safra": "2022",
+    "teor_alcoolico_percent": 13.0,
+    "temperatura_servico_c": "6 a 8°C",
+    "vinificacao": "Suave desengace. Curto período de contato com as peles. Fermentação em tanques de inox, com leveduras selecionadas, por 10 dias a menos de 18ºC.",
+    "maturacao": "Tanques de aço inox.",
+    "corpo": "Médio",
+    "potencial_guarda_anos": "3 anos",
+    "harmonizacoes": [
+      "Peixes ensopados",
+      "embutidos",
+      "como salame",
+      "copa",
+      "risoto de linguiça com alecrim"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/luna_rose_malbec_9_1_a4cd171f8e09c4c8209280135690356a_20221003162155.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1ERiQeCTekfyQLbMq0SaLQtGaNEow0ytS&export=download"
+  }
+}

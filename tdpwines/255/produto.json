@@ -1,0 +1,31 @@
+{
+  "codigo_produto": "255",
+  "url": "https://www.tdpwines.com.br/vinho-tinto-italiano-mediterranico-nero-d-avola-doc-sicilia",
+  "titulo": "Mediterranico Nero D'Avola DOC 2021",
+  "descricao_geral": "Jovens e modernos, os vinhos orgânicos e veganos da Mediterranico são elaborados com as castas de melhor qualidade da Sicília, como a Pinot Grigio, Nero DAvola e Nerello Mascalese. São vinhos frescos, com grande influência marítima e de ótimo custo-benefício.A Nero D&#39;Avola é a variedade tinta mais plantada na Sicília, o que se explica por ser uma tinta que tolera e se dá muito bem no calor. Este DOC tinto elaborado às margens do Mediterrâneo é fresco e frutado, com destaque para as notas de romã e cerejas bem maduras. Sem passagem por madeira, é um vinho que pode ser bebido ainda jovem ou guardado alguns anos mais.É um vinho gastronômico, perfeito para acompanhar tanto carnes vermelhas quanto brancas grelhadas e ótimo se um pouco refrescado. CaracteristicasProdutor SettesoliPais ItáliaRegião SicíliaTipo TintoUva Nero D&rsquo;AvolaVolume 750mlSafra 2021Teor Alcoólico 13%Temperatura de Serviço 12 a 14°CVinificação Fermentação tradicional com controle de temperatura.Maturação Tanques de aço inoxCorpo MédioPotencial de Guarda 5 anosHarmonizações Massas recheadas ou com molho vermelho, lasanha de beringela, peixes com molho vermelho e queijos de massa média. Baixar Ficha Técnica Baixar Imagem",
+  "caracteristicas": {
+    "produtor": "Settesoli",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Sicília",
+    "tipo": "Tinto",
+    "uva": "Nero D’Avola",
+    "volume_ml": 750,
+    "safra": "2021",
+    "teor_alcoolico_percent": 13.0,
+    "temperatura_servico_c": "12 a 14°C",
+    "vinificacao": "Fermentação tradicional com controle de temperatura.",
+    "maturacao": "Tanques de aço inox",
+    "corpo": "Médio",
+    "potencial_guarda_anos": "5 anos",
+    "harmonizacoes": [
+      "Massas recheadas ou com molho vermelho",
+      "lasanha de beringela",
+      "peixes com molho vermelho",
+      "queijos de massa média"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/vin_ita_mediterranico_nero_d_avola_doc_sicilia_tinto_6_x_750_ml_255_1_f4a6507538b675123ef797d052b8f10e_20221003162142.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1j6ioQkuUdkt-IYmtfAzBEcAFiIu4w_lY&export=download"
+  }
+}

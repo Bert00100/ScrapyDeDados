@@ -1,0 +1,30 @@
+{
+  "codigo_produto": "157",
+  "url": "https://www.tdpwines.com.br/vinho-tinto-argentino-tapiz-classic-malbec",
+  "titulo": "Tapiz Classic Malbec 2022",
+  "descricao_geral": "Tapiz Classic, com 91 pontos de James Suckling, é um Malbec de cor intensa e ótimo volume de boca, com um final bastante longo e persistente.",
+  "caracteristicas": {
+    "produtor": "Tapiz",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Vale do Uco, Mendoza",
+    "tipo": "Tinto",
+    "uva": "100% Malbec",
+    "volume_ml": 750,
+    "safra": "2022",
+    "teor_alcoolico_percent": 14.1,
+    "temperatura_servico_c": "14 a 16°C",
+    "vinificacao": "5 a 8 dias de maceração préfermentativa a 8º - 9ºC. 14 dias de fermentação com temperatura controlada.",
+    "maturacao": "8 meses em carvalho francês e americano de segundo e terceiro usos.",
+    "corpo": "Médio",
+    "potencial_guarda_anos": "5 anos",
+    "harmonizacoes": [
+      "Cordeiro com molho de hortelã",
+      "queijos curados como o parmesão",
+      "carnes assadas"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/tapiz_classic_malbec_2019_157_1_20221003162142.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1IdJQZkT8hK6786R8Dt8pastDGbrfVj-k&export=download"
+  }
+}

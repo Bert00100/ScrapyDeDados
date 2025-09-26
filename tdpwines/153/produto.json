@@ -1,0 +1,30 @@
+{
+  "codigo_produto": "153",
+  "url": "https://www.tdpwines.com.br/vinho-tinto-portugues-regateiro-reserva",
+  "titulo": "Regateiro Reserva Tinto 2016",
+  "descricao_geral": "Típico tinto da Bairrada, este Reserva é volumoso, complexo, com a madeira bem integrada, unindo à perfeição os taninos macios da Touriga Nacional e a frescura vibrante da Baga. É maduro, encorpado, com a fruta vermelha bastante presente.",
+  "caracteristicas": {
+    "produtor": "Lusovini",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Bairrada",
+    "tipo": "Tinto",
+    "uva": "Baga e Touriga Nacional",
+    "volume_ml": 750,
+    "safra": "2016",
+    "teor_alcoolico_percent": 14.5,
+    "temperatura_servico_c": "16°C",
+    "vinificacao": "Fermentação com maceração prolongada em lagar tradicional.",
+    "maturacao": "8 meses em barricas de carvalho francês.",
+    "corpo": "Médio-intenso",
+    "potencial_guarda_anos": "6 anos",
+    "harmonizacoes": [
+      "Carnes grelhadas",
+      "queijos duros",
+      "como o parmesão"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/vin_por_regateiro_reserva_bairrada_tinto_3x750ml_153_1_214370faff4336ce186a5d1289fb2026_20221003162201.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1NzPKtye_UeH5UqtpFwjV-H-cxkH2gObh&export=download"
+  }
+}

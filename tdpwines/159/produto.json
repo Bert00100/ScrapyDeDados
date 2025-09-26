@@ -1,0 +1,29 @@
+{
+  "codigo_produto": "159",
+  "url": "https://www.tdpwines.com.br/vinho-tinto-argentino-tapiz-black-tears-malbec",
+  "titulo": "Tapiz Black Tears Malbec 2019",
+  "descricao_geral": "A jóia da Tapiz, este Malbec single vineyard é intenso em cor, aroma e sabor. Perfeito para acompanhar os tradicionais assados argentinos.",
+  "caracteristicas": {
+    "produtor": "Tapiz",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Vale do Uco, Mendoza",
+    "tipo": "Tinto",
+    "uva": "100% Malbec",
+    "volume_ml": 750,
+    "safra": "2019",
+    "teor_alcoolico_percent": 14.8,
+    "temperatura_servico_c": "16 a 18°C",
+    "vinificacao": "5 dias de maceração préfermentativa a 8º - 9ºC e mais 20 dias de pósmaceração. 15 dias de fermentação com temperatura controlada.",
+    "maturacao": "24 meses em barricas.",
+    "corpo": "Intenso",
+    "potencial_guarda_anos": "20 anos",
+    "harmonizacoes": [
+      "Carnes vermelhas grelhadas",
+      "caças"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/tapiz_black_tears_malbec_2015_159_1_20221003162142.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1HzrsrPE7S9MX9Qn14ndPw2WL-aqHXtgt&export=download"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "codigo_produto": "87",
+  "url": "https://www.tdpwines.com.br/vinho-branco-chileno-ritual-chardonnay",
+  "titulo": "Ritual Chardonnay 2020",
+  "descricao_geral": "Chardonnay biodinâmico e orgânico, este premiado vinho branco da Ritual destaca-se por seu frescor. Recebeu 93 pontos de James Suckling e 91 do Guia Descorchados.",
+  "caracteristicas": {
+    "produtor": "Veramonte",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Vale de Casablanca, com forte influência do Oceano Pacífico.",
+    "tipo": "Branco",
+    "uva": "100% Chardonnay",
+    "volume_ml": 750,
+    "safra": "2020",
+    "teor_alcoolico_percent": 13.5,
+    "temperatura_servico_c": "12°C",
+    "vinificacao": "Colheita e seleção manual das uvas. Fermentação fracionada em tanques de concreto em forma de ovo (20%), barricas novas (20%) e neutras (60%). Borras agitadas regularmente.",
+    "maturacao": "Tanques de aço inox",
+    "corpo": "Médio",
+    "potencial_guarda_anos": "3 a 5 anos",
+    "harmonizacoes": [
+      "Peixes",
+      "mariscos",
+      "saladas com carnes brancas"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/vin_chi_ritual_casablanca_chardonnay_bco_6x750ml_87_1_1a30c517ce515e859026011aae1a51a0_20221003162151.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1K5iQ8jrJabtjh2p0ltwejgtth518cNFZ&export=download"
+  }
+}

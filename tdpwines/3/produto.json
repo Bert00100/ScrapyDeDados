@@ -1,0 +1,32 @@
+{
+  "codigo_produto": "3",
+  "url": "https://www.tdpwines.com.br/vinho-tinto-argentino-finca-la-anita-agrelo-varua-blend",
+  "titulo": "Finca La Anita Varúa Blend Tinto 2019",
+  "descricao_geral": "Blend de Merlot (40%), Cabernet Sauvignon (40%) e Syrah de vinhas velhas (20%), Varúa é um vinho opulento. De cor intensa, fechada, desenvolve-se em muitas camadas aromáticas, como cerejas, frutas negras maduras e noz moscada.",
+  "caracteristicas": {
+    "produtor": "Finca La Anita",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Agrelo, Mendoza",
+    "tipo": "Tinto",
+    "uva": "Merlot (40%), Syrah (40%) e Cabernet Sauvignon (20%)",
+    "volume_ml": 750,
+    "safra": "2017",
+    "teor_alcoolico_percent": 14.5,
+    "temperatura_servico_c": "16°C",
+    "vinificacao": "Fermentação em tanques de inox com leveduras selecionadas. Fermentação malolática espontânea com controle de temperatura.",
+    "maturacao": "15 meses em barricas novas francesas Allier.",
+    "corpo": "Encorpado",
+    "potencial_guarda_anos": "10 anos",
+    "harmonizacoes": [
+      "Carnes",
+      "grelhadas",
+      "como picanha",
+      "ou cozidas lentamente",
+      "como Ossobuco"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/finca_la_anita_varua_blend_tinto_2017_3_1_67eae7e6d44926769d9b51351a948218_20221003162135.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1GMFFQfLpb762QHflPE5cKToJqLpG3rG_&export=download"
+  }
+}

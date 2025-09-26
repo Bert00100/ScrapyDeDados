@@ -1,0 +1,29 @@
+{
+  "codigo_produto": "355",
+  "url": "https://www.tdpwines.com.br/vinho-tinto-espanhol-adrian-serrano-crianza-tempranillo-rioja-doca",
+  "titulo": "Vinho Tinto Adrian Serrano Crianza Tempranillo Rioja DOCa 2018",
+  "descricao_geral": "Um típico vinho de uma das mais famosas zonas da Espanha, Rioja. Notas especialmente adocicadas, como frutas em compota, especiarias, baunihla e pimenta. Em boca, estruturado, potente, com paladar quente e persistente.",
+  "caracteristicas": {
+    "produtor": "Marqués de Reynosa",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Rioja",
+    "tipo": "Tinto",
+    "uva": "100% Tempranillo",
+    "volume_ml": 750,
+    "safra": "2018",
+    "teor_alcoolico_percent": 14.0,
+    "temperatura_servico_c": "14°C",
+    "vinificacao": "Fermentação tradicional com temperatura controlada.",
+    "maturacao": "12 meses em barricas de carvalho",
+    "corpo": "Encorpado",
+    "potencial_guarda_anos": "7 a 10 anos",
+    "harmonizacoes": [
+      "Carnes vermelhas grelhadas",
+      "ensopadas. Lasanha. Carnes de caça"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/vinho_tinto_adrian_serrano_crianza_tempranillo_rio_1_20250822165032_8a2e37a9334b.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1inpYVa6mWKZ7KDo5D00_NHfpyBYTUQOw&export=download"
+  }
+}

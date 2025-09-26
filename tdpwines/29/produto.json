@@ -1,0 +1,29 @@
+{
+  "codigo_produto": "29",
+  "url": "https://www.tdpwines.com.br/vinho-branco-portugues-sericaia",
+  "titulo": "Vinho Branco Sericaia 750ml 2021",
+  "descricao_geral": "Corte de Antão Vaz, Roupeiro e Arinto, é um branco sólido, untuoso, que mantém sua frescura. O aroma é delicioso, com destaque para a fruta de polpa branca.",
+  "caracteristicas": {
+    "produtor": "Lusovini",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Alentejo",
+    "tipo": "Branco",
+    "uva": "Antão Vaz, Roupeiro e Arinto",
+    "volume_ml": 750,
+    "safra": "2021",
+    "teor_alcoolico_percent": 12.0,
+    "temperatura_servico_c": "10 a 12°C",
+    "vinificacao": "Fermentação em tanques de aço inox com temperatura controlada entre 14° e 16°C",
+    "maturacao": "Tanques de aço inox",
+    "corpo": "Médio",
+    "potencial_guarda_anos": "5 anos",
+    "harmonizacoes": [
+      "Peixes grelhados",
+      "ensopados de frutos do mar"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/vin_por_sericaia_alentejo_branco_6x750ml_29_1_ef2c99acb20d673e32c6d03780c4bb18_20221003162148.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1McNwOj-OaAnbO0bZPZOwaoWSqFBXkaCW&export=download"
+  }
+}

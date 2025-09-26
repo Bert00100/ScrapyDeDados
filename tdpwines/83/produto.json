@@ -1,0 +1,30 @@
+{
+  "codigo_produto": "83",
+  "url": "https://www.tdpwines.com.br/vinho-tinto-chileno-ritual-pinot-noir",
+  "titulo": "Ritual Pinot Noir 2019",
+  "descricao_geral": "Pinot Noir fresco e complexo, proveniente de vinhedos orgânicos e biodinâmicos. 93 pontos James Suckling.",
+  "caracteristicas": {
+    "produtor": "Veramonte",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Vale de Casablanca, com forte influência do Oceano Pacífico.",
+    "tipo": "Tinto",
+    "uva": "100% Pinot Noir",
+    "volume_ml": 750,
+    "safra": "2019",
+    "teor_alcoolico_percent": 13.5,
+    "temperatura_servico_c": "12 a 14°C",
+    "vinificacao": "Colheita e seleção manual das uvas. Fermentação em tanques de aço inox com temperatura controlada (24ºC). Parte da fruta fermenta com o cacho inteiro para aumentar a estrutura e complexidade. Uso de leveduras nativas.",
+    "maturacao": "12 meses em barricas de carvalho francês (20% novas).",
+    "corpo": "Médio",
+    "potencial_guarda_anos": "7 anos",
+    "harmonizacoes": [
+      "Atum grelhado",
+      "risoto de mariscos",
+      "massas com molhos de tomate"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/ritual_pinot_noir_2018_83_2_013beba345388b882789cca5d9afb3fd_20221003162201.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1K4XPXxpbksiRLv9BhCBd0EFXdEKEnvYm&export=download"
+  }
+}

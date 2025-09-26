@@ -1,0 +1,29 @@
+{
+  "codigo_produto": "43",
+  "url": "https://www.tdpwines.com.br/vinho-rose-portugues-pedra-cancela-touriga-nacional-dao",
+  "titulo": "Pedra Cancela Touriga Nacional Rosé 2022",
+  "descricao_geral": "Pretty in pink! Por maior que seja a popularidade dos rosés, são raros aqueles elaborados exclusivamente com a casta-símbolo de Portugal, a Touriga Nacional. Vinificado em branco, é fresco e frutado.",
+  "caracteristicas": {
+    "produtor": "Lusovini",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Dão",
+    "tipo": "Rosé",
+    "uva": "100% Touriga Nacional",
+    "volume_ml": 750,
+    "safra": "2022",
+    "teor_alcoolico_percent": 12.5,
+    "temperatura_servico_c": "12°C",
+    "vinificacao": "Breve contato, de apenas 45 minutos, com as cascas. Fermentação em temperatura controlada entre 14 e 16ºC.",
+    "maturacao": "Sur lies em tanques de aço inox.",
+    "corpo": "Leve",
+    "potencial_guarda_anos": "3 anos",
+    "harmonizacoes": [
+      "Ótimo para acompanhar embutidos",
+      "queijos de massa mole"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/pedra_cancela_touriga_nacional_rose_43_1_04b8dad95403a883b8659747756267f3_20221003162156.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1LBU0S_6e6k3xkFtyHZL241jwiFHBmyg3&export=download"
+  }
+}

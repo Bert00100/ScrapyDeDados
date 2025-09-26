@@ -1,0 +1,29 @@
+{
+  "codigo_produto": "107",
+  "url": "https://www.tdpwines.com.br/vinho-tinto-chileno-go-up-red-blend",
+  "titulo": "GO UP Red Blend 2021",
+  "descricao_geral": "Jovem e inovador desde o rótulo, GO UP Red Blend tem bom corpo, muita fruta madura e é fácil e descomplicado de beber!",
+  "caracteristicas": {
+    "produtor": "TDP Wines",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Valle de Curicó",
+    "tipo": "Tinto",
+    "uva": "60% Cabernet Sauvignon, 40% Carménère",
+    "volume_ml": 750,
+    "safra": "2021",
+    "teor_alcoolico_percent": 13.0,
+    "temperatura_servico_c": "14 a 18°C",
+    "vinificacao": "Vinificação tradicional em tanques com controle de temperatura (28º a 30ºC).",
+    "maturacao": "6 meses em barricas de carvalho de segundo uso.",
+    "corpo": "Médio",
+    "potencial_guarda_anos": "3 a 5 anos",
+    "harmonizacoes": [
+      "Carne de panela braseada com vinho",
+      "penne à bolonhesa"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/vin_chi_santa_irene_go_up_curico_carmenere_cabernet_sauvignon_tto_6x750ml_107_1_20221003162141.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1JRqLe5NJaswB9dFyUSV0FfhxjbkCgN_G&export=download"
+  }
+}

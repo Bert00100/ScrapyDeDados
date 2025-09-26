@@ -1,0 +1,29 @@
+{
+  "codigo_produto": "133",
+  "url": "https://www.tdpwines.com.br/vinho-tinto-chileno-primus-carmenere",
+  "titulo": "Primus Carménère 2020",
+  "descricao_geral": "Primus é elaborado pela chilena Veramonte, mesma proprietária das marcas Ritual e Neyen, reconhecida pela seriedade no trabalho e comprometimento com a qualidade de seus vinhos. As uvas deste delicioso Carménère vem de Apalta, no vale de Colchagua, utilizando uvas das porções mais jovens dos vinhedos do fabuloso Neyen.Este Carménère é sedoso e estruturado, com aroma de frutas negras, cedro e boldo. A boca é a típica de um Carménère de alta qualidade: fresco e frutado, com ótimo volume de boca e taninos presentes porém macios e domados. É um excelente vinho da variedade.Com 12 meses de passagem por barricas de carvalho (18% novas), é par perfeito para pratos à base de carne vermelha, como um bom corte de filé mignon, ou um risoto de funghi. CaracteristicasProdutor VeramontePais ChileRegião ApaltaTipo TintoUva 100% CarménèreVolume 750mlSafra 2020Teor Alcoólico 14%Temperatura de Serviço 14 a 16°CVinificação Vinificação tradicional, fermentação com leveduras indígenas.Maturação 12 meses em barricas de carvalho francês (18% novas).Corpo IntensoPotencial de Guarda 8 anosHarmonizações Filé mignon grelhado, risoto de funghi. Baixar Ficha Técnica Baixar Imagem",
+  "caracteristicas": {
+    "produtor": "Veramonte",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Apalta",
+    "tipo": "Tinto",
+    "uva": "100% Carménère",
+    "volume_ml": 750,
+    "safra": "2020",
+    "teor_alcoolico_percent": 14.0,
+    "temperatura_servico_c": "14 a 16°C",
+    "vinificacao": "Vinificação tradicional, fermentação com leveduras indígenas.",
+    "maturacao": "12 meses em barricas de carvalho francês (18% novas).",
+    "corpo": "Intenso",
+    "potencial_guarda_anos": "8 anos",
+    "harmonizacoes": [
+      "Filé mignon grelhado",
+      "risoto de funghi"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/primus_carmenere_2019_133_1_c3c06a0aaefc0df7ab315772ee98eb7c_20221003162142.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1ObEz6dOqkPpmMh1ZzDUWxV_VwiasGa2N&export=download"
+  }
+}

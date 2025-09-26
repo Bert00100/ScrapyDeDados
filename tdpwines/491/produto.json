@@ -1,0 +1,30 @@
+{
+  "codigo_produto": "491",
+  "url": "https://www.tdpwines.com.br/vinhos/branco/vinho-branco-magnolia-pinot-grigio",
+  "titulo": "VINHO BRANCO MAGNOLIA PINOT GRIGIO COLLINE PESCARESI IGP",
+  "descricao_geral": "Vinho Branco Magnolia Pinot Grigio Colline Pescaresi IGP 750ml - TDP Wines",
+  "caracteristicas": {
+    "produtor": "Talamonti",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Abruzzo",
+    "tipo": "Branco",
+    "uva": "100%Pinot Grigio",
+    "volume_ml": 750,
+    "safra": "2024",
+    "teor_alcoolico_percent": 12.5,
+    "temperatura_servico_c": "8 a 10°C",
+    "vinificacao": "Fermentação em tanques de aço inox com temperatura controlada.",
+    "maturacao": "Tanques de aço inox",
+    "corpo": "Leve",
+    "potencial_guarda_anos": "5 anos",
+    "harmonizacoes": [
+      "Saladas",
+      "peixes grelhados",
+      "carne branca"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/vinho_branco_magnolia_pinot_grigio_colline_pescaresi_igp_491_1_2272a47606d9e7f9d7447de31e42db3f.png",
+    "ficha_tecnica_url": "https://drive.google.com/file/d/1Jwr8XtC4_2iV6oNoZ5niarH1uY0hWrrU/view?usp=drive_link"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "codigo_produto": "73",
+  "url": "https://www.tdpwines.com.br/vinho-tinto-espanhol-anko-cafayate-malbec",
+  "titulo": "Anko Malbec 2021",
+  "descricao_geral": "Com 92 pontos James Suckling e Wine Spectator, este Malbec de Salta é elaborado pelo expert Alejandro Sejanovich, renomado enólogo argentino com destacada passagem por Catena Zapata e um dos responsáveis pelos projetos Tejo e Manos Negras.",
+  "caracteristicas": {
+    "produtor": "Estancia Los Cardones",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Tolombóm, Salta",
+    "tipo": "Tinto",
+    "uva": "100% Malbec",
+    "volume_ml": 750,
+    "safra": "2021",
+    "teor_alcoolico_percent": 13.4,
+    "temperatura_servico_c": "16°C",
+    "vinificacao": "Maceração a frio por 7 dias. Fermentação com leveduras naturais por 14 dias. Fermentação malolática completa.",
+    "maturacao": "6 meses em barricas de carvalho francês 20% novas.",
+    "corpo": "Médio",
+    "potencial_guarda_anos": "5 anos",
+    "harmonizacoes": [
+      "Embutidos secos (copa",
+      "salame milano)",
+      "ossobuco de vitela"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/anko_malbec_2019_73_1_20221003162205.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1JA3iTI7xaxahdWqJhnzSdGt63zt6RiuZ&export=download"
+  }
+}

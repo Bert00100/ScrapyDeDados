@@ -1,0 +1,30 @@
+{
+  "codigo_produto": "349",
+  "url": "https://www.tdpwines.com.br/vinho-tinto-portugues-pedra-cancela-vinha-da-fidalga",
+  "titulo": "Vinho Tinto Pedra Cancela Vinha da Fidalga Alfrocheiro e Touriga Nacional 2018",
+  "descricao_geral": "Tinto elaborado com as videiras novas da Vinha da Fidalga, um projeto de agricultura integrada da Lusovini que busca o resgate e cultivo de variedades típicas do Dão. Puro, fresco, focado na fruta, é um típico Dão, elegante e sem concentração excessiva.",
+  "caracteristicas": {
+    "produtor": "Lusovini",
+    "pais": "Ver País Argentina Patagonia Chile Portugal Brasil Espanha Ribera del Duero Itália Piemonte Abruzzo Sicilia Provincia de Taranto Toscana França África do Sul",
+    "regiao": "Dão",
+    "tipo": "Tinto",
+    "uva": "Alfrocheiro e Touriga Nacional",
+    "volume_ml": 750,
+    "safra": "2018",
+    "teor_alcoolico_percent": 13.0,
+    "temperatura_servico_c": "14°C",
+    "vinificacao": "Desengace total, maceração pré-fermentativa a frio por 48 horas, fermentação a 24ºC.",
+    "maturacao": "8 meses em barricas de carvalho francês Allier novas.",
+    "corpo": "Médio",
+    "potencial_guarda_anos": "8 a 10 anos",
+    "harmonizacoes": [
+      "Magret de pato",
+      "carré ou filé de cordeiro",
+      "massa à putanesca"
+    ]
+  },
+  "midia": {
+    "imagem_principal_url": "https://images.tcdn.com.br/img/img_prod/791130/vin_por_pedra_cancela_vinha_da_fidalga_tn_alf_dao_tinto_6x750ml_349_1_5403e67ec6a7df48c780a45cf9bc200c.png",
+    "ficha_tecnica_url": "https://drive.usercontent.google.com/u/2/uc?id=1yNllcJ2VV04BgbA23zbcUowxd63CLoI5&export=download"
+  }
+}
